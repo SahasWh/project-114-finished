@@ -1,0 +1,14 @@
+h3 {
+    font-size: 40px !important;
+}
+
+button {
+    font-size: 35px !important;
+}
+
+canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border:black 2px solid;
+}
